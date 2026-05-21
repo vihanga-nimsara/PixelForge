@@ -1,0 +1,6 @@
+{
+  "name": "PixelForge",
+  "description": "An AI-powered image editing workspace to remove backgrounds, upscale, generate, and edit images with professional precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
